@@ -23,7 +23,7 @@ econometria, algorítmos de deep learning, engenharia financeira, análise de ri
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Acesse meus tutoriais:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
