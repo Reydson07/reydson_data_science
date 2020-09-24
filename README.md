@@ -1,16 +1,18 @@
-# Meu portfólio de projetos de Data Science.
+# Portfólio de Projetos de Data Science.
 
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Reydson Matos
+<sub>*Estudante de economia na EPPEN/UNIFESP e cientista de dados</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Profissional com experiência em finanças possuindo estagiário de Tesouraria na Whirlpool Corporation durante o período de 06/2019 até 06/2020,
+com ações desenvolvidas em atividades de mapeamento e  automatização de processos, 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Sou um grande entusiasta de tecnologia e tenho interesse em exercer carreira no mercado financeiro. Como auto-didata estudo sobre estatística,
+econometria, algorítmos de deep learning, engenharia financeira, análise de riscos
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
