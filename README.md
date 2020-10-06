@@ -6,31 +6,22 @@
 </p>
 
 # Reydson Matos
-<sub>*Estudante de economia na EPPEN/UNIFESP e cientista de dados</sub>
+<sub>*Graduando em Economia na Escola Paulista de Política, Economia e Negócios.</sub>
 
-Profissional com experiência em finanças possuindo estagiário de Tesouraria na Whirlpool Corporation durante o período de 06/2019 até 06/2020,
-com ações desenvolvidas em atividades de mapeamento e  automatização de processos, 
+Amazonense, aluno na Universidade Federal de São Paulo e praticante do "Lifelong Learning".
 
-Sou um grande entusiasta de tecnologia e tenho interesse em exercer carreira no mercado financeiro. Como auto-didata estudo sobre estatística,
-econometria, algorítmos de deep learning, engenharia financeira, análise de riscos
+Possuo experiência profissional na área de finanças atuando como estagiário de tesouraria em uma grande multinacional. Em meu dia a dia defrontava-me com grandes volumes de dados o que muitas vezes dificultava à análise quando realizada no tradicional Excel. Com meu perfil analítico e minha alta capacidade de aprendizagem iniciei os estudos em ciências de dados em busca de melhores práticas para escalonar as análises e a inferência quanto a padrões existentes nos dados.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Análise Fundamentalista, Macroeconommia, Gestão de Riscos e Portfólio.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/reydson-matos-4209ba182/)
+
 
 
 ## Projetos:
 Acesse meus tutoriais:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 ---
