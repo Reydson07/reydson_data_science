@@ -22,6 +22,6 @@ Possuo experiência profissional na área de finanças atuando como estagiário 
 ## Projetos:
 Acesse meus tutoriais:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Estratégia de Investimento utilizando análise técnica:** 
 
 ---
