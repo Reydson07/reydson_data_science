@@ -41,6 +41,6 @@ Em resumo: sou apaixonado por tudo que envolva empreendedorismo, ciência e tecn
 Projetos em andamento:
 
 * [**Tratamento da base de dados da Anfavea (licenciamento de automóveis).** ](https://github.com/Reydson07/reydson_data_science/blob/master/Painel_Setorial_Automobilistico.ipynb)
-* * [**Web scraping com dados abertos da Infraero.** ](https://github.com/Reydson07/reydson_data_science/blob/master/dados_abertos_infraero.ipynb)
-* * [**Calendário de resultados das empresas listadas na B3** ](https://github.com/Reydson07/reydson_data_science/blob/master/empresas_listadas_b3.ipynb)
+* [**Web scraping com dados abertos da Infraero.** ](https://github.com/Reydson07/reydson_data_science/blob/master/dados_abertos_infraero.ipynb)
+* [**Calendário de resultados das empresas listadas na B3** ](https://github.com/Reydson07/reydson_data_science/blob/master/empresas_listadas_b3.ipynb)
 ---
