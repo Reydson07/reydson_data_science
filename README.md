@@ -41,5 +41,5 @@ Em resumo: sou apaixonado por tudo que envolva empreendedorismo, ciência e tecn
 Projetos em andamento:
 
 * **Tratamento da base de dados da Anfavea (licenciamento de automóveis).** 
-
+* [Ver](https://github.com/Reydson07/reydson_data_science/blob/master/Painel_Setorial_Automobilistico.ipynb)
 ---
